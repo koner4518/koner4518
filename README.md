@@ -9,7 +9,11 @@
 ---
   
 ## 🌐 Connect with Me
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/supriyo.koner.54) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/supriyo45228) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/supriyo-koner-249500241) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:supriyokoner2005@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300A98F.svg?style=for-the-badge&logo=linktree&logoColor=white)](https://portfolio-io-flame.vercel.app/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/supriyo.koner.54)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/supriyo45228)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/supriyo-koner-249500241)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:supriyokoner2005@gmail.com)
 
 ---
 
